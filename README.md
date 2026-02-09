@@ -38,6 +38,8 @@ This repository provides the code to reproduce the main analysis, robustness che
 All data can be accessed here (Dryad):
 - https://doi.org/10.5061/dryad.h9w0vt4tw
 
+Detailed data descriptions and data dictionaries are also available on Dryad link above.
+
 ---
 
 ## Data required to run the code
