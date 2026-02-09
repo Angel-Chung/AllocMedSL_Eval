@@ -6,7 +6,7 @@
 
 This repository provides the code to reproduce the main analysis, robustness checks, and figures.
 
-**Expected runtime:** each analysis script should run in **< 5–10 minutes** on a standard laptop (excluding optional map rendering / downloads).
+**Expected runtime:** each analysis script should run in **< 5–10 minutes** on a standard laptop.
 
 ---
 
@@ -140,12 +140,12 @@ stata -b do "LATEIV.do"
 
 ---
 
-## Mapbox token (Figure 2 map)
+## Mapbox token
 Obtain Mapbox token to run the code of producing Figure 2 map: https://docs.mapbox.com/api/accounts/tokens/
 
 ---
 
-## Notes on restricted data (worldcities.csv)
+## Notes on restricted data 
 `worldcities.csv` is a purchased dataset and is not released publicly. You can purchase it here:
 - https://simplemaps.com/data/world-cities
 
