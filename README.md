@@ -49,7 +49,7 @@ Detailed data descriptions and data dictionaries are also available on Dryad lin
 - **S4_AlternativeData.csv:** Consumption and monthly facility-level stock balance data from DHIS2, covering control products to run alternative control analysis.
 - **S5_dfImp_popbased.csv:** Population based demand for each facility across products, which will be used to run population-based imputation analysis.
 - **worldcities.csv:** List of cities and corresponding latitude & longitude in Sierra Leone, which is used to run treatment impact by rural/urban. **Note:** this dataset was purchased so we do not release publicly. You can purchase from here: https://simplemaps.com/data/world-cities
-- **mainData.csv:** Processed based on S1 & S2; can be obtained from `MainAnalysis.R`. This data is used to run `Event_Study.do` to generate the event study plot.
+- **mainData.csv:** Processed based on S1 & S2; can be obtained from `MainAnalysis.R`. 
 - **IVData.csv:** Processed based on S1 & S2; can be obtained from `MainAnalysis.R`. This data is used to run `LATEIV.do` to generate IV results.
 
 ---
@@ -152,7 +152,7 @@ Obtain Mapbox token to run the code of producing Figure 2 map: https://docs.mapb
 ---
 
 ## Citation
-If you use this repository, please cite the accompanying paper:
+If you use this repository, please cite the paper:
 
 ```bibtex
 @article{ChungetalAllocMedSL,
