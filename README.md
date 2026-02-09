@@ -4,7 +4,7 @@
 [![Python](https://img.shields.io/badge/Python-3.9-3776AB?logo=python&logoColor=white)](#required-software)
 [![R](https://img.shields.io/badge/R-4.2.1-276DC3?logo=r&logoColor=white)](#required-software)
 
-All code for the **main analysis**, **robustness checks**, and **figures** is included in this repository.
+This repository provides the code to reproduce the main analysis, robustness checks, and figures.
 
 **Expected runtime:** each analysis script should run in **< 5–10 minutes** on a standard laptop (excluding optional map rendering / downloads).
 
