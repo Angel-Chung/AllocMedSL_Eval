@@ -35,8 +35,7 @@ If you use this repository, please cite the paper:
   - [4. Event_Study.do](#4-event_studydo)
   - [5. LATEIV.do](#5-lateivdo)
 - [Mapbox token (Figure 2 map)](#mapbox-token-figure-2-map)
-- [Notes on restricted data (worldcities.csv)](#notes-on-restricted-data-worldcitiescsv)
-- [Citation](#citation)
+- [Notes on restricted data](#notes-on-restricted-data-worldcitiescsv)
 
 ---
 
