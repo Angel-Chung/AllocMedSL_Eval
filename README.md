@@ -4,10 +4,23 @@
 [![Python](https://img.shields.io/badge/Python-3.9-3776AB?logo=python&logoColor=white)](#required-software)
 [![R](https://img.shields.io/badge/R-4.2.1-276DC3?logo=r&logoColor=white)](#required-software)
 
-This repository provides the code to reproduce the main analysis, robustness checks, and figures.
+This repository contains the code necessary to reproduce the main analysis, robustness checks, and figures for the paper "Improving Access to Essential Medicines via Decision-Aware Machine Learning." 
 
-**Expected runtime:** each analysis script should run in **< 5–10 minutes** on a standard laptop.
+<sub>**Expected runtime:** Each analysis script should run in **5–10 minutes** on a standard laptop.</sub>
 
+---
+## Citation
+If you use this repository, please cite the paper:
+
+```bibtex
+@article{ChungetalAllocMedSL,
+  title   = {Improving Access to Essential Medicines via Decision-Aware Machine Learning},
+  author  = {},
+  journal = {},
+  year    = {YYYY},
+  doi     = {DOI}
+}
+```
 ---
 
 ## Table of contents
@@ -149,19 +162,6 @@ Obtain Mapbox token to run the code of producing Figure 2 map: https://docs.mapb
 `worldcities.csv` is a purchased dataset and is not released publicly. You can purchase it here:
 - https://simplemaps.com/data/world-cities
 
----
 
-## Citation
-If you use this repository, please cite the paper:
-
-```bibtex
-@article{ChungetalAllocMedSL,
-  title   = {Improving Access to Essential Medicines via Decision-Aware Machine Learning},
-  author  = {},
-  journal = {},
-  year    = {YYYY},
-  doi     = {DOI}
-}
-```
 
 
