@@ -51,6 +51,9 @@ All data can be accessed here (Dryad):
 - https://doi.org/10.5061/dryad.h9w0vt4tw
 
 Detailed data descriptions and data dictionaries are also available on Dryad link above.
+> [!NOTE]
+> - To protect data privacy, we removed geolocation-related information from the S1 facility dataset to de-identify individual facilities. Facility features are available here: https://data.grid3.org/datasets/GRID3::grid3-sle-health-facilities-v1-0/about
+
 
 ---
 
