@@ -14,10 +14,12 @@ If you use this repository, please cite the paper:
 
 ```bibtex
 @article{chung2026improving,
-  title   = {Improving access to essential medicines via decision-aware machine learning},
-  author  = {Chung, A. T. H. and Abdulai, J. and Bayoh, P. and others},
-  journal = {Nature},
-  year    = {2026},
+  title={Improving access to essential medicines via decision-aware machine learning},
+  author={Chung, Angel Tsai-Hsuan and Abdulai, Jatu and Bayoh, Patrick and Sandi, Lawrence and Smart, Francis and Bastani, Hamsa and Bastani, Osbert},
+  journal={Nature},
+  pages={1--6},
+  year={2026},
+  publisher={Nature Publishing Group UK London},
   doi     = {10.1038/s41586-026-10433-7}
 }
 ```
